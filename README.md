@@ -1,0 +1,2 @@
+# Learn-Arithmetic-Application-Design
+The Hong Kong Polytechnic University_COMP3423_HCI_Group Project_Learn Arithmetic Application_2023_Fall
